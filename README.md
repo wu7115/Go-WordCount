@@ -12,31 +12,31 @@ The objective of this project is to count the frequency of words in a given text
    - This version uses the full power of Go’s standard library and data structures (e.g., maps) without any imposed restrictions.
    - **Characteristics**: Standard Go features, efficient, straightforward solution.
    
-   File: [`wc01.go`](./no_constraints_word_count.go)
+   File: [`wc01.go`](./wc01.go)
 
 ### 2. **No Abstractions, No Library Functions, Slices Only**
-   - This approach prohibits the use of abstractions (no custom functions) and avoids Go's library functions and maps. It only utilizes basic functions and slices for data manipulation.
+   - This approach prohibits the use of abstractions (no custom functions) and avoids Go's library functions and any advanced data structure. It only utilizes basic functions and slices for data manipulation.
    - **Characteristics**: Simplistic, avoids abstraction layers, restricted use of features.
    
-   File: [`no_abstractions_word_count.go`](./no_abstractions_word_count.go)
+   File: [`wc02.go`](./wc02.go)
 
 ### 3. **Procedural Abstraction**
    - The solution decomposes the problem into smaller procedures, each handling a specific task. The main logic executes these procedures sequentially, solving the problem step by step.
    - **Characteristics**: Modular, structured through procedural decomposition, more organized than the basic approach.
    
-   File: [`procedural_abstraction_word_count.go`](./procedural_abstraction_word_count.go)
+   File: [`wc03.go`](./wc03.go)
 
 ### 4. **Functional Abstraction**
    - This implementation uses functional programming principles, decomposing the problem into mathematical functions. It solves the problem as a pipeline of function applications.
    - **Characteristics**: Focus on immutability, function composition, and avoiding side effects.
    
-   File: [`functional_abstraction_word_count.go`](./functional_abstraction_word_count.go)
+   File: [`wc04.go`](./wc04.go)
 
 ### 5. **Minimal Lines of Code**
    - In this version, the goal is to solve the word count problem in as few lines of code as possible while maintaining functionality.
    - **Characteristics**: Compact, concise, and focused on brevity.
    
-   File: [`minimal_code_word_count.go`](./minimal_code_word_count.go)
+   File: [`wc05.go`](./wc05.go)
 
 ## How to Run the Code
 

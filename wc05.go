@@ -22,10 +22,7 @@ func main() {
 			wordCount[word]++
 		}
 	}
-	type wordFreq struct {
-		word  string
-		count int
-	}
+	type wordFreq struct {word  string, count int}
 	var wordFreqs []wordFreq
 	for word, count := range wordCount {
 		wordFreqs = append(wordFreqs, wordFreq{word, count})

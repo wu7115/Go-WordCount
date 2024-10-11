@@ -13,7 +13,7 @@ The objective of this project is to count the frequency of words in a given text
    - **Characteristics**: Standard Go features, efficient, straightforward solution.
    - To run code
      ```bash
-   go run wc01.go pride-and-prejudice.txt
+      go run wc01.go pride-and-prejudice.txt
    
    File: [`wc01.go`](./wc01.go)
 

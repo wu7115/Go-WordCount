@@ -10,6 +10,7 @@ The objective of this project is to count the frequency of words in a given text
 
 **Week 01:**
 - **week-01/wc01.go**: No constraints.
+**Week 02:**
 - **week-02/wc02.go**: No abstractions, no library functions, slices only.
 - **week-02/wc03.go**: Procedural abstraction.
 - **week-02/wc04.go**: Functional abstraction.

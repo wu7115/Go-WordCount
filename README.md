@@ -18,6 +18,6 @@ The objective of this project is to count the frequency of words in a given text
 - **wc05.go**: Minimal lines of code.
 
 **Week 03**
-- **wc06.go**: 
-- **wc07.go**: 
-- **wc08.go**: 
+- **wc06.go**: Recursive sorting
+- **wc07.go**: Functions accept another function as a parameter for chaining.
+- **wc08.go**: Monadic style with wrapping, binding, and unwrapping of values.

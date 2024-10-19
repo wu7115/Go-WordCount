@@ -1,3 +1,5 @@
+## Implementations
+
 ### 2. **No Abstractions, No Library Functions, Slices Only**
    - This approach prohibits the use of abstractions (no custom functions) and avoids Go's library functions and any advanced data structure. It only utilizes basic functions and slices for data manipulation.
    - **Characteristics**: Simplistic, avoids abstraction layers, restricted use of features.

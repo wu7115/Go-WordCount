@@ -5,7 +5,7 @@
    - **Characteristics**: Simplistic, avoids abstraction layers, restricted use of features.
    - To run code
      ```bash
-      go run wc01.go pride-and-prejudice.txt stop_words.txt
+      go run wc01.go ../pride-and-prejudice.txt ../stop_words.txt
    
    File: [`wc02.go`](./wc02.go)
 
@@ -14,7 +14,7 @@
    - **Characteristics**: Modular, structured through procedural decomposition, more organized than the basic approach.
    - To run code
      ```bash
-      go run wc01.go pride-and-prejudice.txt stop_words.txt
+      go run wc01.go ../pride-and-prejudice.txt ../stop_words.txt
    
    File: [`wc03.go`](./wc03.go)
 
@@ -23,7 +23,7 @@
    - **Characteristics**: Focus on immutability, function composition, and avoiding side effects.
    - To run code
      ```bash
-      go run wc01.go pride-and-prejudice.txt
+      go run wc01.go ../pride-and-prejudice.txt
    
    File: [`wc04.go`](./wc04.go)
 
@@ -32,6 +32,6 @@
    - **Characteristics**: Compact, concise, and focused on brevity.
    - To run code
      ```bash
-      go run wc01.go pride-and-prejudice.txt
+      go run wc01.go ../pride-and-prejudice.txt
    
    File: [`wc05.go`](./wc05.go)

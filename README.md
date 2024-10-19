@@ -8,11 +8,16 @@ The objective of this project is to count the frequency of words in a given text
 
 ## Program Files
 
-**Week 01:**
-- **week-01/wc01.go**: No constraints.
+**Week 01**
+- **wc01.go**: No constraints.
 
-**Week 02:**
-- **week-02/wc02.go**: No abstractions, no library functions, slices only.
-- **week-02/wc03.go**: Procedural abstraction.
-- **week-02/wc04.go**: Functional abstraction.
-- **week-02/wc05.go**: Minimal lines of code.
+**Week 02**
+- **wc02.go**: No abstractions, no library functions, slices only.
+- **wc03.go**: Procedural abstraction.
+- **wc04.go**: Functional abstraction.
+- **wc05.go**: Minimal lines of code.
+
+**Week 03**
+- **wc08.go**: 
+- **wc09.go**: 
+- **wc010.go**: 

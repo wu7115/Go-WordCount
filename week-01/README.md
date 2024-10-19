@@ -1,4 +1,4 @@
-### **No Constraints (Standard Approach)**
+### 1. **No Constraints (Standard Approach)**
    - This version uses the full power of Go’s standard library and data structures (e.g., maps) without any imposed restrictions.
    - **Characteristics**: Standard Go features, efficient, straightforward solution.
    - To run code

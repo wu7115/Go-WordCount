@@ -5,3 +5,11 @@ Welcome to my **Go Word Count Project**! This repository showcases my exploratio
 ## Problem Statement
 
 The objective of this project is to count the frequency of words in a given text file, filtering out stop words, and outputting the top 25 most frequent words. Each implementation addresses this challenge using a different programming style.
+
+## Program Files
+
+- **wc01.go**: No constraints.
+- **wc02.go**: No abstractions, no library functions, slices only.
+- **wc03.go**: Procedural abstraction.
+- **wc04.go**: Functional abstraction.
+- **wc05.go**: Minimal lines of code.

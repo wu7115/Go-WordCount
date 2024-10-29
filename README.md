@@ -1,6 +1,6 @@
 # Word Count Implementations in Go
 
-Welcome to my **Go Word Count Project**! This repository showcases my exploration of various programming styles to solve the same problem: counting word frequencies in a text file. Each solution is implemented in Go with a distinct approach, demonstrating different paradigms in programming.
+Welcome to my **Go Word Count Project**! This repository showcases my exploration of various programming styles to solve the same problem: counting word frequencies in a text file. Each solution is implemented in Go with a distinct approach, demonstrating different paradigms in programming. This project is part of my weekly practices for the course **"Analysis of Programming Languages"**, where each week's implementation follows specific constraints to deepen understanding of programming styles and techniques.
 
 ## Problem Statement
 

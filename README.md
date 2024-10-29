@@ -18,6 +18,11 @@ The objective of this project is to count the frequency of words in a given text
 - **wc05.go**: Minimal lines of code.
 
 **Week 03**
-- **wc06.go**: Recursive sorting
+- **wc06.go**: Recursive sorting.
 - **wc07.go**: Functions accept another function as a parameter for chaining.
 - **wc08.go**: Monadic style with wrapping, binding, and unwrapping of values.
+
+**Week 04**
+- **wc09.go**: Smalltalk-style object message passing.
+- **wc10.go**: JavaScript-style map-based objects with functions as values.
+- **wc11.go**: Callback-driven abstraction with entity registration; includes filtering for words with "z."
